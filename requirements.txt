@@ -1,0 +1,9 @@
+slacker==0.9.30
+beautifulsoup4==4.5.1
+selenium==3.0.2
+pyvirtualdisplay==0.2.1
+elasticsearch==5.0.0
+pyelasticsearch==1.4
+lxml==3.6.4
+fake-useragent==0.1.5
+requests==2.13.0
